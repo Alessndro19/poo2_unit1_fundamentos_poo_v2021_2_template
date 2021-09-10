@@ -226,4 +226,3 @@ Adicionalmente se incluye los cálculos que deberían ser considerados para este
     auto centroid = fc.get_centroid();
     cout << centroid.x << " " << centroid.y << endl;
 ```
-
